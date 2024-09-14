@@ -1,3 +1,23 @@
+# LinkedIn Resume Generator
+
+This is a simple web application that generates an HTML resume from a LinkedIn PDF download using OpenAI's API.
+
+## How It Works
+1. The user uploads a LinkedIn PDF resume.
+2. The application reads the PDF, sends it to the OpenAI API for text extraction and transformation.
+3. The API returns the converted HTML resume, which is displayed on the webpage.
+
+## How to Use
+1. Clone or download the repository.
+2. Open the `index.html` file in your browser.
+3. Upload a LinkedIn PDF resume.
+4. Enter your OpenAI API key when prompted.
+5. The HTML version of the resume will be generated and displayed.
+
+## Technologies Used
+- HTML, CSS, JavaScript
+- OpenAI API
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
